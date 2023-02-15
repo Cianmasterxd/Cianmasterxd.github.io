@@ -12,5 +12,9 @@ Test1
   <h2>Nuestro plan</h2>
   <p>Vamos a al lugar que usted lo necesite para poder plantar un arbolito, nosotros llevamos las herramientas.</p>
   <img src="https://trucosdejardineria.com/wp-content/uploads/2019/10/planting-a-tree.png.webp" width="450" height="200">
+    <h3>Contactanos:</h3>
+  <a href="https://www.instagram.com/arb_4_laif/" target="_blank"><b>Instagram</b></a>
+  <p><b>WhatsApp</b></p>
+  <p>+52 1 33 2360 6644</p>
 </body>
 </html>
