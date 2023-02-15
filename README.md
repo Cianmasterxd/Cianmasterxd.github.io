@@ -1,10 +1,6 @@
 # Cianmasterxd.github.io
 Test1
-<!DOCTYPE html>
 <html lang="en">
-<head>
-<title>All4laif</title>
-</head>
 <body>
   <img src="All4Life.png" width="100" height="100"><h1>All4laif</h1>  
   <h2>Quienes somos?</h2>
