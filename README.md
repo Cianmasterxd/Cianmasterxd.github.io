@@ -1,6 +1,6 @@
 # Cianmasterxd.github.io
 Test1
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>All4laif</title>
